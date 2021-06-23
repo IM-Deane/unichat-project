@@ -1,6 +1,6 @@
 # Unichat Application
 
-![Chat Application](https://link.shutterfly.com/XrzWz1Xgjhb)
+_Current Version:_ 1.0.0
 
 ## Description
 
