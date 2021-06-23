@@ -1,15 +1,22 @@
 # Unichat Application
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+![Chat Application](https://link.shutterfly.com/XrzWz1Xgjhb)
 
-## Introduction
+## Description
 
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+Unichat was created to practice my React.js as well as solidify my ability to
+work with API's.
 
-You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
+Unichat is a Realtime web based chat application. It utilizes Social Auth (with
+Google), dedicated chat APIs/sockets.
 
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
+The backend is powered by Google's Firebase and the chat functionality stems
+from Chat Engine [https://chatengine.io](https://chatengine.io).
 
-### Bonus - E-mail notifications
+# Future plans:
 
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
+In a future version I plan to implement e-mail notifications. This will increase
+the app's usefulness by enabiling users to chat while offline.
+
+The [Chat Engine docs](https://chatengine.io/docs/email_notifications) contain
+more info on how to implement this feature.
