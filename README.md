@@ -13,6 +13,13 @@ Google), dedicated chat APIs/sockets.
 The backend is powered by Google's Firebase and the chat functionality stems
 from Chat Engine [https://chatengine.io](https://chatengine.io).
 
+During this project I learned: 
+- More about React Routing
+- How to implement Social Authentication using a Google Account
+- How to create a project that utilizes Firebase
+- The React Context API
+- How to utilize Environment variables
+
 # Future plans:
 
 In a future version I plan to implement e-mail notifications. This will increase
